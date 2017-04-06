@@ -5,7 +5,7 @@ This program aproximates the optimal Steiner Tree using the KMB heuristic in wit
 For the provided instances the solution is, in average, 26% distant from the optimal solution. But, in the genaral case the cost of the solution given by this method has a 2 - 2 / t factor of distance from the optiaml solution.
 
 ## Output format 
-Prints the Cost: | Three ...
+Prints the Cost: | Three <verteces from tree>...
 
 ## Build
 `make`
